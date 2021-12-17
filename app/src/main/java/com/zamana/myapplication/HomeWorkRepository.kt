@@ -1,0 +1,43 @@
+package com.zamana.myapplication
+
+object HomeWorkRepository {
+
+    val listHomeworks = arrayListOf(
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+        HomeWork("Eugen S.", 59, R.drawable.ic_launcher_background),
+        HomeWork("Nikita", 16, R.drawable.ic_launcher_background),
+        HomeWork("Egor", 13, R.drawable.ic_launcher_background),
+        HomeWork("Eugen P.", 15, R.drawable.ic_launcher_background),
+    )
+}

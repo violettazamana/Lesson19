@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BlackButtonStyle" parent="ParentDefaultButtonStyle">
+        <item name="android:background">@color/black</item>
+    </style>
+
+    <style name="ParentDefaultButtonStyle.PurpleStyle">
+        <item name="android:background">@color/purple_700</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="ParentDefaultButtonStyle.PurpleStyle.LargeText">
+        <item name="android:background">@color/purple_700</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="ParentDefaultButtonStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>
